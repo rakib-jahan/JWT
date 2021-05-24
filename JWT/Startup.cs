@@ -114,7 +114,6 @@ namespace JWT
             app.UseSwaggerUI(c =>
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1");
-
             });
         }
     }
