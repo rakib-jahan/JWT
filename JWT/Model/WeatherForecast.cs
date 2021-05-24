@@ -1,6 +1,6 @@
 using System;
 
-namespace JWT
+namespace JWT.Model
 {
     public class WeatherForecast
     {
